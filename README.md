@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @acidburnV
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Python
 - ⚡ Fun fact: I can´t decide what language to learn
 
 <!---
